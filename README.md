@@ -1,6 +1,9 @@
 
 #GitHub einstaklingsverkefni 
 
+#Þetta er breyting á ReadMe
+##eitthvað random
+
 ##Árekstur (branches and merge)
 
 <ol>
